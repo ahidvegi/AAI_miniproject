@@ -8,6 +8,8 @@ Andras Hidvegi - anahid-0@student.ltu.se
 
 **Link to YT: TBD**  
 
+Link to the presentation recording - [https://www.youtube.com/watch?v=Mq3MsI2GyIs]
+
 **Link to data used:**  
 
 - CIFAR10 - [https://www.cs.toronto.edu/~kriz/cifar.html]  
